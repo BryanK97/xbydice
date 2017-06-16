@@ -71,10 +71,3 @@ body {
 .btn .label {
     text-shadow: none;
 }
-
-/* Progress Bar */
-
-.progress-bar-grey {
-    background-color: #767676;
-    background-image: none;
-}

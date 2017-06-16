@@ -1,9 +1,10 @@
 ## XBYDice
 
-XBY Dice Site. Work in progress.
+XBYDice v 0.1
 
-v. 0.1
+## Run your own dice site
 
+If you want to run your own dice casino, all you need to do is clone/fork this project, create an app at Moneypot (https://www.moneypot.com/apps/new), and set the `config.app_id` at the top of the `app.js` file.
 
 ## Host it on Github
 
