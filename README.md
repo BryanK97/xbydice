@@ -1,8 +1,7 @@
-README
-
 ## XBYDice
 
 XBY Dice Site. Work in progress.
+
 v. 0.1
 
 

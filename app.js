@@ -10,7 +10,7 @@ var config = {
   // - For your faucet to work, you must register your site at Recaptcha
   // - https://www.google.com/recaptcha/intro/index.html
   recaptcha_sitekey: '6LeUqiUUAAAAABPPuVzMOp6pW4HrKmMsith2PG0r',  // <----- EDIT ME!
-  redirect_uri: 'https://bryank97-xbydice.github.io',
+  redirect_uri: 'https://bryank97.github.io/xbydice/',
   mp_browser_uri: 'https://www.moneypot.com',
   mp_api_uri: 'https://api.moneypot.com',
   chat_uri: '//socket.moneypot.com',
