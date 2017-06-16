@@ -1,8 +1,9 @@
 README
 
-##### XBYDice
+## XBYDice
 
-XBY Dice Site.
+XBY Dice Site. Work in progress.
+v. 0.1
 
 
 ## Host it on Github
